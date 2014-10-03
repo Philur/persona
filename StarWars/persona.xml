@@ -1,0 +1,7 @@
+<persona id='SW' displayName='StarWars'>
+  <quote>May the force be with you!</quote>
+  <quote>Luke, I'm your father!</quote>
+  <quote type="success">This is only for stable builds.</quote>
+  <quote type="failure">This is only for unstable builds.</quote>
+  <quote type="other">This is only for failed builds.</quote>  ...
+</persona>
