@@ -32,3 +32,12 @@ The format of the persona.xml file is as follows:
 </persona>
 
 "type" : build status such as 'success', 'failure', 'other' (case insensitive).
+
+
+---------------------
+mkdir -p $JENKINS_HOME/persona
+cd $JENKINS_HOME/persona
+git clone https://github.com/busyloop/jenkins-personas.git
+
+/var/lib/jenkins/persona
+
